@@ -1,0 +1,41 @@
+.background-cyan {
+  background-color: #002d2d;
+}
+
+.btn-main {
+  background-color: #008060;
+  color: #ffffff;
+  border: 0;
+  padding: 10px 30px 10px 30px;
+  font-weight: 600;
+  border-radius: 3px;
+}
+
+footer {
+  background-color: #002d2d;
+}
+
+footer nav ul li {
+  display: inline-block;
+  list-style: none;
+  
+}
+
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.bg-yellow {
+  background-color: #fbf7ed;
+}
+
+a {
+  text-decoration: none !important;
+  color: #ffffff !important;
+}
+
+/* footer nav ul li {
+  width: 40px;
+} */
+
